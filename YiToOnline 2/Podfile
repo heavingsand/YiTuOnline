@@ -1,0 +1,28 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'YiToOnline' do
+
+pod 'SDWebImage', '~> 3.8'
+
+pod ‘AFNetworking’
+
+pod ‘MJRefresh’
+
+pod 'SDCycleScrollView','~> 1.64'
+
+pod 'AMap2DMap' #2D地图SDK
+
+pod 'AMapSearch' #搜索服务SDK
+
+pod 'AMapLocation'
+
+pod 'YYKit'
+
+pod 'CocoaAsyncSocket'
+
+pod 'Masonry'
+
+pod 'WMPageController'
+
+end
